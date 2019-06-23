@@ -1,0 +1,7 @@
+{
+  "/eService/*": {
+    "target": "https://customer.cfd.co.nz/eService",
+    "secure": false,
+    "pathRewrite": {"^/eService" : ""}
+  }
+}
